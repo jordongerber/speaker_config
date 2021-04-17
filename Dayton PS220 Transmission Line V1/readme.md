@@ -1,4 +1,4 @@
-#Dayton PS220 Transmission Line
+# Dayton PS220 Transmission Line
 
 This speaker is a folded transmission line tuned to approx. 45Hz. Nothing exotic about the design, the pipe is not tapered so the cross sectional area is the same as the cone area throughout.
 
